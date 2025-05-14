@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+}
+
+img,
+video {
+  display: block;
+}
+.degrade {
+  display: flex;
+  flex-direction: column;
+}
+body {
+  height: 100vh;
+  background-color: #3a07f2;
+}
